@@ -29,7 +29,7 @@ struct ContentView: View {
             Form{
                 Section {
                     VStack (alignment: .leading, spacing: 0) {
-                        Text("کی میخوای بخوابی؟")
+                        Text("کی میخوای بیدارشی؟")
                             .font(.headline)
                         DatePicker("لطفا تایم خواب خود را مشخص کنید", selection: $wakeUp, displayedComponents: .hourAndMinute)
                             .labelsHidden()
