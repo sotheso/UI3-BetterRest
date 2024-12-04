@@ -12,6 +12,7 @@
 		9B7EA06C2D008C970084B974 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9B7EA06B2D008C970084B974 /* Assets.xcassets */; };
 		9B7EA06F2D008C970084B974 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9B7EA06E2D008C970084B974 /* Preview Assets.xcassets */; };
 		9B7EA0762D00945C0084B974 /* SleepCalculator.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = 9B7EA0752D00945C0084B974 /* SleepCalculator.mlmodel */; };
+		9B7EA0782D00A4F90084B974 /* UI3.png in Resources */ = {isa = PBXBuildFile; fileRef = 9B7EA0772D00A4F90084B974 /* UI3.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,7 @@
 		9B7EA06B2D008C970084B974 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9B7EA06E2D008C970084B974 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		9B7EA0752D00945C0084B974 /* SleepCalculator.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; path = SleepCalculator.mlmodel; sourceTree = "<group>"; };
+		9B7EA0772D00A4F90084B974 /* UI3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = UI3.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 				9B7EA0672D008C960084B974 /* UI3_BetterRestApp.swift */,
 				9B7EA0692D008C960084B974 /* ContentView.swift */,
 				9B7EA0752D00945C0084B974 /* SleepCalculator.mlmodel */,
+				9B7EA0772D00A4F90084B974 /* UI3.png */,
 				9B7EA06B2D008C970084B974 /* Assets.xcassets */,
 				9B7EA06D2D008C970084B974 /* Preview Content */,
 			);
@@ -128,6 +131,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9B7EA0782D00A4F90084B974 /* UI3.png in Resources */,
 				9B7EA06F2D008C970084B974 /* Preview Assets.xcassets in Resources */,
 				9B7EA06C2D008C970084B974 /* Assets.xcassets in Resources */,
 			);
